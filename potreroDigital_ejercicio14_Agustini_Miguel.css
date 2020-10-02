@@ -1,0 +1,36 @@
+.header {
+  border: solid;
+  background-color: red;
+  width: 300px;
+  height: 20vh;
+  margin-left: 4px;
+  margin-right: 4px;
+  padding: 0%
+
+}
+
+@media (max-width: 1025px) {
+  .header
+  border: dotted;
+  background-color: green;
+  width: 20%;
+  height: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 6%;
+  margin-bottom:6%;
+  padding: 9px;
+
+}
+
+@@media (max-width: 360px) {
+  border: solid;
+  border-color: darkred;
+  background-color: red;
+  width: 20%;
+  height: 100px;
+  margin: 0;
+  padding-right: 9px;
+  padding: 0;
+
+}
