@@ -1,8 +1,13 @@
-main{
+header{
   width: 100%;
+}
+main{
   height: 80%;
   background-color: darkred;
+
+
 }
+
 .card{
 
   margin: 10px;
@@ -10,10 +15,4 @@ main{
 }
 .header{
   background-color: darkred;
-}
-.header{
-    background-color: transparent;
-}
-body{
-  background-color: aqua;
 }
