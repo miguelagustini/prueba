@@ -55,7 +55,7 @@ main{
 
  }
  .card-text{
-     font-size:19px;
+     font-size:18px;
      text-overflow: ellipsis;
      white-space: nowrap;
      overflow: hidden;
@@ -68,3 +68,6 @@ main{
      overflow: hidden;
 
  }
+.card{
+  height: 25em;
+}
