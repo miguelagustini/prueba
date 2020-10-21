@@ -54,3 +54,17 @@ main{
    height: 20px;
 
  }
+ .card-text{
+     font-size:19px;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+     overflow: hidden;
+ }
+
+ .card-title {
+     font-size:19px;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+     overflow: hidden;
+
+ }
