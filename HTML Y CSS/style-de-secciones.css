@@ -13,9 +13,6 @@ main{
   margin: 10px;
 
 }
-.header{
-  background-color: darkred;
-}
 .WHATS{
   width: 30px;
   height: 30px;
@@ -32,5 +29,28 @@ main{
 .insta{
   width: 30px;
   height: 30px;
+ }
+ .dep{
+   width: 20px;
+   height: 20px;
+ }
+ .salu{
+   width: 20px;
+   height: 20px;
 
-}
+ }
+ .politica{
+   width: 15px;
+   height: 20px;
+
+ }
+ .entre{
+   width: 15px;
+   height: 20px;
+
+ }
+ .eco{
+   width: 20px;
+   height: 20px;
+
+ }
