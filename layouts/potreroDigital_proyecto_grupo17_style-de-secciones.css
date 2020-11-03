@@ -72,3 +72,9 @@ main{
 .card{
   height: 25em;
 }
+
+.set{
+  color: white;
+  display: flex;
+  align-items: center;
+}

@@ -63,7 +63,7 @@ main{
 .card-text{
     font-size:18px;
     text-overflow: ellipsis;
-    white-space: nowrap;
+    white-space: normal;
     overflow: hidden;
 }
 
